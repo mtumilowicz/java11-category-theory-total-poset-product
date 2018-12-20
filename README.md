@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-category-theory-total-poset-product.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-category-theory-total-poset-product)
+
 # java11-category-theory-total-poset-product
 
 For basic info about products in category theory please refer
