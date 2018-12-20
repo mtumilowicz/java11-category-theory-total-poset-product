@@ -21,7 +21,7 @@ then it is product of `a` and `b`
 
 # project description
 We provide basic implementation (note that `T extends Comparable`
-because every two objects are comparable in total set)
+because every two objects are comparable in total poset)
 
 ```
 class TotalPosetProduct<T extends Comparable<T>> {
